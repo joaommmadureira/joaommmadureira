@@ -5,7 +5,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaommmadureira&theme=gotham" />
 </a>
 
-I love to create and develop things with programming.
+<br/>I love to create and develop things with programming.
 
  🌱 &nbsp; I’m currently learning ReactJS, Node.js & Typescript
  <br/> 🙌🏼 &nbsp; Looking for contribute with Front-end projects using React
