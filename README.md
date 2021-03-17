@@ -2,10 +2,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaommmadureira&hide=stars&show_icons=true&theme=vue-dark&show_owner=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaommmadureira&layout=compact&theme=gotham" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaommmadureira&theme=gotham" />
 </a>
 
-<br/> I love to create and develop things with programming.
+I love to create and develop things with programming.
 
  🌱 &nbsp; I’m currently learning ReactJS, Node.js & Typescript
  <br/> 🙌🏼 &nbsp; Looking for contribute with Front-end projects using React
