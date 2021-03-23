@@ -5,9 +5,8 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaommmadureira&theme=gotham" />
 </a>
 
-<br/>I love to create and develop things with programming.
 
- 🌱 &nbsp; I’m currently learning ReactJS, Node.js & Typescript
+ <br/>🌱 &nbsp; I’m currently learning ReactJS, Node.js & Typescript
  <br/> 🙌🏼 &nbsp; Looking for contribute with Front-end projects using React
  <br/> 🚀 &nbsp; Nerver Stop Learning!
  <br/> 🔗 &nbsp; Conect with me: <a href="https://www.linkedin.com/in/joaommmadureira/" target="_blank">
