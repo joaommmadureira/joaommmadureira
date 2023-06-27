@@ -6,9 +6,8 @@
 </a>
 
 
- <br/>🌱 &nbsp; I’m currently learning ReactJS, Node.js & Typescript
+ <br/>🌱 &nbsp; I’m currently working ReactJS, Node.js
  <br/> 🙌🏼 &nbsp; Looking for contribute with Front-end projects using React
- <br/> 🚀 &nbsp; Nerver Stop Learning!
  <br/> 🔗 &nbsp; Conect with me: <a href="https://www.linkedin.com/in/joaommmadureira/" target="_blank">
   <img align="center" alt="João LinkedIn" height="25px" src="https://i.imgur.com/SiLaOQb.png" />
 </a>
