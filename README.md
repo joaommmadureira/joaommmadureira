@@ -1,13 +1,13 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaommmadureira&hide=stars&show_icons=true&theme=vue-dark&show_owner=true" />
-</a>
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaommmadureira&theme=gotham" />
 </a>
 
+<br/>[![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,nodejs,react)](https://skillicons.dev)
+<br/>[![My Skills](https://skillicons.dev/icons?i=html,css,materialui,tailwind)](https://skillicons.dev)
+<br/>[![My Skills](https://skillicons.dev/icons?i=firebase,gcp,postgres)](https://skillicons.dev)
 
- <br/>🌱 &nbsp; I’m currently working ReactJS, Node.js
- <br/> 🙌🏼 &nbsp; Looking for contribute with Front-end projects using React
+ <br/>🌱 &nbsp; I’m currently working with ReactJS, Node.js
  <br/> 🔗 &nbsp; Conect with me: <a href="https://www.linkedin.com/in/joaommmadureira/" target="_blank">
   <img align="center" alt="João LinkedIn" height="25px" src="https://i.imgur.com/SiLaOQb.png" />
 </a>
